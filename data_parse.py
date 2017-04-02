@@ -17,7 +17,7 @@ class LegislationImport:
         
     def conduct_call(self):
         headers = {
-            'X-API-Key': '4jVRBAKrhn4nniRoSo5Gf4AWuM8DaA9G3GUC9pqN',
+            'X-API-Key': '',
             }
 
         print(self._leg)
