@@ -11,7 +11,7 @@ class Summary:
     def __init__(self, url_to_parse, keyword_count, summary_length): 
         self.PROTOCOL     = "http://"
         self.HOST         = "api.smmry.com/"
-        self.KEY          = "F03936BE6D"
+        self.KEY          = ""
         
         self.url_to_parse   = url_to_parse 
         self.keyword_count  = keyword_count 
